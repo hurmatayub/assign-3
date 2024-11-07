@@ -1,4 +1,6 @@
+import Image from 'next/image'
 import React from 'react'
+import Img from '@/app/assets/img.jpg';
 
 const Manegment = () => {
   return (
@@ -24,12 +26,15 @@ const Manegment = () => {
     </div>
     <br />
     <br />
+    <br />
 
 
-{/* 3 page */}
+   {/* 3rd page */}
     <div className='w-[1480px] h-[661px] gap-[100px] flex items-center'>
-    <div className='w-[710px] h-[661px] bg-[#A7CEFC]'></div>
-        <div className='w-[670px] h-[294px]'>
+         <div className='w-[710px] h-[661px] '>
+            <Image src={Img} alt='' />
+         </div>
+     <div className='w-[670px] h-[294px]'>
             <div className='w-[670px] h-[171px]'>
                 <h1 className='w-[670px] h-[87px] font-bold text-7xl leading-[87.14px] tracking-[-0.02em] text-[#212529]'>Work together</h1>
             </div>
