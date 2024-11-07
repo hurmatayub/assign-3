@@ -12,6 +12,7 @@ const Manegment = () => {
                 <div className='w-[627px] h-[174px]'>
                     <h1 className='font-bold text-7xl leading-[87.14px] tracking-[-0.02em] text-[#212529]'>Project Management</h1>
                 </div>
+                <br />
             <div className='w-[672px] h-[90px]'>
                 <p className='font-normal text-lg leading-[30px] tracking-[-0.02em]'>
                 Images, videos, PDFs and audio files are supported. Create math expressions and diagrams directly from the app. Take photos with the mobile app and save them to a note.</p>
@@ -36,7 +37,7 @@ const Manegment = () => {
          </div>
      <div className='w-[670px] h-[294px]'>
             <div className='w-[670px] h-[171px]'>
-                <h1 className='w-[670px] h-[87px] font-bold text-7xl leading-[87.14px] tracking-[-0.02em] text-[#212529]'>Work together</h1>
+                <h1 className='font-bold text-7xl leading-[87.14px] tracking-[-0.02em] text-[#212529]'>Work together</h1>
             </div>
             <div className='w-[670px] h-[60px]'>
                 <p className='font-normal text-lg leading-[30px] tracking-[-0.02em] text-[#212529]'>With whitepace, share your notes with your colleagues and collaborate on them.You can also publish a note to the internet and share the URL with others.

@@ -3,7 +3,7 @@ import React from 'react'
 const Needs = () => {
   return (
     <>
-      <div className='w-[1921px] h-[812.09px]  top-[3268px] py-[140px] px-[220px] gap-[98px] font-inter flex items-center'>
+      <div className='w-[1921px] h-[812.09px]  top-[3268px] py-[140px] px-[220px] gap-[98px]  font-inter flex items-center'>
     <div className='w-[714px] h-[532.09px] bg-[#C4DEFD]'></div>
         <div className='w-[669px] h-[411px]'>
             <div className='w-[669px] h-[288px]'>

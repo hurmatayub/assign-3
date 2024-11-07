@@ -11,6 +11,7 @@ const Extention = () => {
                     Use as Extension
                    </h1>
                 </div>
+                <br />
                 <div className='w-[697px] h-[60px]'>
                     <p className='font-normal text-lg leading-[30px] tracking-[-0.02em] text-white'>
                     Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes.

@@ -9,9 +9,10 @@ const Hero = () => {
                 <div className='w-[656px] h-[154px]'>
                 <h2 className='font-bold text-[64px] leading-[77.45px] tracking-[-0.02em]'>Get More Done with whitepace</h2>
                 </div>
-
+                <br />
+                <br />
                 <div className='w-[656px] h-[60px]'>
-                <p className='font-normal text-lg leading-[30px] tracking-[-0.02em]'>Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks</p>
+                <p className='font-normal text-lg leading-[30px]tracking-[-0.02em]'>Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks</p>
                 </div>
                 
                 <div className='w-[219px] h-[63px]'></div>
