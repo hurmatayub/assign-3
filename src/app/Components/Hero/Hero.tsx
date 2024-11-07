@@ -16,8 +16,9 @@ const Hero = () => {
                 </div>
                 
                 <div className='w-[219px] h-[63px]'></div>
-                <button className='rounded-lg px-5 py-5 bg-[#4F9CF9]'>
+                <button className='rounded-lg px-5 py-5 bg-[#4F9CF9] flex items-center justify-center'>
                     <p className='w-[159px] h-[23px] font-medium text-lg leading-[23px] tracking-[-0.02em]'>Try Whitepace free</p>
+                    <span className='text-white text-lg '> → </span>
                 </button>
             </div> 
        </div>

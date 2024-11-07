@@ -23,7 +23,7 @@ const Work = () => {
             <br />
             <div className="flex justify-center w-full h-[63px]">
               <button className="w-[195px] py-5 px-10 rounded-lg bg-[#4F9CF9] flex justify-center items-center gap-[10px]">
-                <p className="font-medium text-lg leading-[23px] tracking-[0.02px] text-white">Try Taskey</p>
+                <p className="font-medium text-lg leading-[23px] tracking-[0.02px] text-white">Try Taskey →</p>
               </button>
             </div>
           </div>

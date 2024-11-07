@@ -19,10 +19,11 @@ const Extention = () => {
                 </div>
                 
                 <div className='w-[171px] h-[63px]'></div>
-                    <button className='py-5 px-10 rounded-md bg-[#4F9CF9]'>
+                    <button className='py-5 px-10 rounded-md bg-[#4F9CF9] flex items-center justify-center '>
                         <p className='w-[67px] h-[23px] font-medium text-lg leading-[23px] tracking-[-0.02em] text-white'>
                         Let’s Go
                         </p>
+                        <span className='text-white text-lg'> → </span>
                     </button>
             </div>
         </div>

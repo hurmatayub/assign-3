@@ -18,8 +18,9 @@ const Manegment = () => {
                 Images, videos, PDFs and audio files are supported. Create math expressions and diagrams directly from the app. Take photos with the mobile app and save them to a note.</p>
             </div>
             <div className='w-[201px] h-[63px]'></div>
-                <button className='py-5 px-10 rounded-md bg-[#4F9CF9]'>
+                <button className='py-5 px-10 rounded-md bg-[#4F9CF9] flex items-center justify-center '>
                    <p className='w-[97px] h-[23px] font-medium text-lg leading-[23px] tracking-[-0.02em] text-white'>Get Started</p>
+                   <span className='text-white text-lg'> → </span>
                 </button>
             </div>
         </div>
@@ -44,8 +45,9 @@ const Manegment = () => {
                 </p>
             </div>
             <div className='w-[189px] h-[63px]'></div>
-            <button className='py-5 px-10 rounded-md bg-[#4F9CF9]'>
+            <button className='py-5 px-10 rounded-md bg-[#4F9CF9] flex items-center justify-center'>
                 <p className='w-[82px] h-[23px] font-medium text-lg leading-[23px] tracking-[-0.02em] text-white'>Try it now</p>
+                <span className='text-white text-lg'> → </span>
             </button>
         </div>
     </div>
